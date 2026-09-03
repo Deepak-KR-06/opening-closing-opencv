@@ -58,11 +58,6 @@ Compare the original, opened, and closed images.
 
 ## Program
 ```py
-# ==============================================================================
-# Title: Morphological Opening and Closing Operations
-# Software: Python 3.7 / OpenCV
-# ==============================================================================
-
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
